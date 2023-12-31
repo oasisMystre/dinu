@@ -1,0 +1,16 @@
+{
+	"name": "Daddy Inu",
+	"symbol": "DINU",
+	"description": "",
+	"image": "",
+	"external_url": "https://daddyinu.com",
+	"properties": {
+		"files": [
+			{
+				"uri": "",
+				"type": "image/png"
+			}
+		]
+	},
+	"category": "video"
+}
